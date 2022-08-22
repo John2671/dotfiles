@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = john.ecs27@gmail.com
+	name = John Collins
